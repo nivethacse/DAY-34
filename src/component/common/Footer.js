@@ -3,7 +3,7 @@ function Footer() {
     <footer className="py-5 bg-dark">
       <div className="container">
         <p className="m-0 text-center text-white">
-          Copyright &copy; Meyazhagan
+          Copyright &copy; Nivetha
         </p>
       </div>
     </footer>
